@@ -1,0 +1,12 @@
+
+== 작가 등록
+
+=== 요청
+
+include::{snippets}/create-author/http-request.adoc[]
+include::{snippets}/create-author/request-fields.adoc[]
+
+=== 응답
+
+include::{snippets}/create-author/http-response.adoc[]
+include::{snippets}/create-author/response-fields.adoc[]
