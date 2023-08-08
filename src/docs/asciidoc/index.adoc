@@ -1,0 +1,25 @@
+= 플레이그라운드
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+ifndef::snippets[]
+:snippets: ../../build/generated-snippets
+endif::[]
+
+== 개요
+
+== 작가 등록
+
+=== 요청
+
+include::{snippets}/create-author/http-request.adoc[]
+include::{snippets}/create-author/request-fields.adoc[]
+
+=== 응답
+
+include::{snippets}/create-author/http-response.adoc[]
+include::{snippets}/create-author/response-fields.adoc[]
